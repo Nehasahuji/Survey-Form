@@ -1,0 +1,99 @@
+body{
+
+  background-image: url(City_Landscape_Background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  /*height: 800px;*/
+  text-align: center;
+}
+
+.outer-container{
+
+  text-align: left;
+
+  width:700px;
+  background-color: #3f3697;
+
+  margin: 0 auto;
+
+
+}
+
+h1
+{
+color: white;
+}
+
+h3{
+  color: white;
+}
+
+label{
+
+  color: white;
+  margin-top: 1rem;
+  padding-top: 10px;
+  font-size: 20px;
+
+}
+
+form{
+    margin-left: 1rem;
+}
+
+input{
+width: 600px;
+border-radius: 5px;
+height: 25px;
+border-color: #1cc5dc;
+border-width: medium;
+}
+
+.first{
+  padding-top: 20px;
+  padding-left: 20px;
+  line-height: 1.5
+
+}
+
+.dropdown{
+  width: 610px;
+  border-radius: 5px;
+  height: 32px;
+  border-color: #1cc5dc;
+  border-width: medium;
+}
+
+.radio-button{
+margin-left: -280px;
+height: 18px;
+}
+
+.radio-label{
+  margin-left: -280px;
+  margin-top: -1px;
+  height: 18px;
+}
+.radio-lab{
+  display: inline-table;
+  text-align: justify;
+}
+
+
+.text-Block{
+
+  margin-bottom: 20px;
+}
+
+
+.explain{
+    height: 80%;
+}
+
+.sub{
+  background-color: #1e6f5c;
+  margin-bottom: 40px;
+  height: 35px;
+  border:  #3f3697;
+}
